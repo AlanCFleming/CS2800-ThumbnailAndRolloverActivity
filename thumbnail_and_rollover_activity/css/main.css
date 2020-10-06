@@ -1,3 +1,10 @@
 p:last-of-type{
 	margin-top: 150px;
+	background-image: url("../images/winter.jpg");
+	height: 480px;
+	width: 640px;
+}
+
+p:last-of-type:hover{
+	background-image: url("../images/summer.jpg");
 }
